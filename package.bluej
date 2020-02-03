@@ -1,30 +1,20 @@
 #BlueJ package file
-editor.fx.0.height=739
-editor.fx.0.width=816
-<<<<<<< HEAD
-editor.fx.0.x=552
-editor.fx.0.y=140
-=======
-editor.fx.0.x=1009
-editor.fx.0.y=196
->>>>>>> 6c0d33dbddde6a7028e285a678497439618b1de0
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 objectbench.height=93
 objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.8
 package.editor.height=393
 package.editor.width=649
-<<<<<<< HEAD
-package.editor.x=617
-package.editor.y=339
-=======
-package.editor.x=969
-package.editor.y=377
->>>>>>> 6c0d33dbddde6a7028e285a678497439618b1de0
+package.editor.x=613
+package.editor.y=225
 package.frame.height=600
 package.frame.width=800
 package.numDependencies=0
-package.numTargets=1
+package.numTargets=2
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
@@ -34,14 +24,16 @@ readme.width=47
 readme.x=10
 readme.y=10
 target1.height=50
-target1.name=Main
+target1.name=Nic
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
-<<<<<<< HEAD
-target1.x=100
-target1.y=20
-=======
-target1.x=70
+target1.x=190
 target1.y=10
->>>>>>> 6c0d33dbddde6a7028e285a678497439618b1de0
+target2.height=50
+target2.name=Main
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=100
+target2.y=20
